@@ -1,0 +1,127 @@
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.exe.config
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.exe
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.pdb
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Form1.resources
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Properties.Resources.resources
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.exe
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.pdb
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.ResolveComReference.cache
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.frmHoaDonBan.resources
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Trangchu.resources
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.NhanVien.resources
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.KhachHang.resources
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.frmHang.resources
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DienThoai.resources
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Thongke.resources
+C:\Users\mypc\source\repos\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DanhThuTK.resources
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.exe.config
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.exe
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.pdb
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csprojAssemblyReference.cache
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.ResolveComReference.cache
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DanhThuTK.resources
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DienThoai.resources
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Form1.resources
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.frmHoaDonBan.resources
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.frmHang.resources
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.KhachHang.resources
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.NhanVien.resources
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Properties.Resources.resources
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Thongke.resources
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Trangchu.resources
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.GenerateResource.cache
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.CoreCompileInputs.cache
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.exe
+C:\Users\mypc\Desktop\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.pdb
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.exe.config
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.exe
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.pdb
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csprojAssemblyReference.cache
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.ResolveComReference.cache
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DanhThuTK.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DienThoai.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Form1.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.frmHoaDonBan.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.frmHang.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.KhachHang.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.NhanVien.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Properties.Resources.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Thongke.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Trangchu.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.GenerateResource.cache
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.CoreCompileInputs.cache
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.exe
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.pdb
+C:\Users\mypc\Desktop\DoAnLapTrinhNet\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.TongQuan.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.exe.config
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.exe
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.pdb
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csprojAssemblyReference.cache
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.ResolveComReference.cache
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DanhThuTK.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DienThoai.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DoanhThuSp.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Form1.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.frmHoaDonBan.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.frmHang.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.KhachHang.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.NhanVien.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Properties.Resources.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Thongke.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.TongQuan.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Trangchu.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.GenerateResource.cache
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.CoreCompileInputs.cache
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.exe
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.pdb
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Dangky.resources
+C:\Users\mypc\Desktop\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DoiMatKhau.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.exe.config
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.exe
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.pdb
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csprojAssemblyReference.cache
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.ResolveComReference.cache
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Dangky.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DanhThuTK.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DienThoai.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DoanhThuSp.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DoiMatKhau.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Form1.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.frmHoaDonBan.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.frmHang.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.KhachHang.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.NhanVien.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Properties.Resources.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Thongke.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.TongQuan.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Trangchu.resources
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.GenerateResource.cache
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.CoreCompileInputs.cache
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.exe
+F:\DoAnLapTrinhNetUpdate\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.pdb
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.exe.config
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.exe
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\bin\Debug\QuanlybanDT.pdb
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.AssemblyReference.cache
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.ResolveComReference.cache
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Dangky.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DanhThuTK.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DienThoai.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DoanhThuSp.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.DoiMatKhau.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Form1.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.frmHoaDonBan.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.frmHang.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.KhachHang.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.NhanVien.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Properties.Resources.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Thongke.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.TongQuan.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.Trangchu.resources
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.GenerateResource.cache
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.csproj.CoreCompileInputs.cache
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.exe
+C:\Users\ACER NITRO 5\OneDrive\Máy tính\SourceCodeQuanLyDT\QuanlybanDT\QuanlybanDT\obj\Debug\QuanlybanDT.pdb
